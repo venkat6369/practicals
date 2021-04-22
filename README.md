@@ -1,2 +1,2 @@
-# practicals of Data science
-# this is repo containing practicals of ds
+# Asessments of Data science
+# this is repo containing Assesments of DS
